@@ -1,0 +1,4 @@
+.env
+.serverless/*
+package-lock.json
+package.json
